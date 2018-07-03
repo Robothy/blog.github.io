@@ -1,4 +1,2 @@
 theme: jekyll-theme-midnight
-baseurl: /blog
-source: /md
-destination: /html
+baseurl: /md
