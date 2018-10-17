@@ -1,10 +1,7 @@
 ---
 layout: post
-author: 罗福享
-title: Cron 用法
-#date: 2018.06.21 01:57:32 +0800
-categories: coding
-tags: Cron, Linux
+categories: programing linux cron
+title: "Cron 用法"
 ---
 
 Cron 是类 Unix 操作系统上基于时间的任务计划程序，通常使用 Cron 这一工具在 Linux 操作系统下**定期执行**某些任务（命令或脚本）。

@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Java Web 开发环境的搭建
-categories: coding
-tags: java, eclipse, tomcat
+layout: post
+categories: programing java struts2
+title: "Java Web 开发环境的搭建"
 ---
+# Java Web 开发环境的搭建
 
 本文主要介绍 Struts2 开发环境在 Windows 操作系统下的搭建，包括 Java JDK ，服务器程序 Tomcat ，开发工具 eclipse 的安装，最终达到的效果是能够在本地成功运行一个 Web 应用程序。搭建过 Web 应用程序对的读者可忽略。
 
