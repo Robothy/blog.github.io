@@ -24,7 +24,7 @@ github_username:  robothy
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 paginate: 6
 paginate_path: "/page:num/"
 debugger: false
